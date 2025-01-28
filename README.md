@@ -9,7 +9,7 @@ Physics-informed Machine Learning with Heuristic Feedback Control Layer for Auto
 - [Dependencies](#dependencies)
 - [Usage](#usage)
 - [Results](#results)
-- [Acknowledgments](#acknowledgments)
+- [Author](#author)
 
 ---
 
@@ -63,9 +63,7 @@ To run the project, the following dependencies are required:
 - casadi
 - CUDA
 
-```
 
----
 
 ## Usage
 
@@ -82,8 +80,6 @@ To run the project, the following dependencies are required:
 4. **Visualize Results**:
    - Training loss: `Training Loss over Epochs.png`.
 
----
-
 ## Results
 
 - **Performance Analysis**:
@@ -91,5 +87,8 @@ To run the project, the following dependencies are required:
 - **Training Loss**:
   - Visualized in `Training Loss over Epochs.png`.
 
----
 
+## Author
+Xianning Li  
+New York University  
+Email: xl5305@nyu.edu
