@@ -1,0 +1,8 @@
+Controller Performance Metrics
+================================
+Controller: MPC, Max Time: 0.0330 s, Avg Time: 0.0194 s
+Controller: AMPC, Max Time: 0.0020 s, Avg Time: 0.0005 s
+Controller: HFAMPC, Max Time: 0.0010 s, Avg Time: 0.0008 s
+Controller: DPC, Max Time: 0.0010 s, Avg Time: 0.0004 s
+Controller: RPC, Max Time: 0.0010 s, Avg Time: 0.0005 s
+Controller: HFRPC, Max Time: 0.0020 s, Avg Time: 0.0008 s

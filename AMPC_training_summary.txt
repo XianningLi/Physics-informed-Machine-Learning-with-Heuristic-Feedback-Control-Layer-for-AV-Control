@@ -1,0 +1,3 @@
+Final Training Loss: 0.0150
+Final Test Loss: 0.0139
+Total Training Time: 199.98 seconds

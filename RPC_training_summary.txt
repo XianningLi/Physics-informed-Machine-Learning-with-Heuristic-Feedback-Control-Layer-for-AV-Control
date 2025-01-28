@@ -1,0 +1,2 @@
+Final Training Loss: 2325.5879
+Total Training Time: 1930.35 seconds
