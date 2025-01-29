@@ -17,7 +17,6 @@ Physics-informed Machine Learning with Heuristic Feedback Control Layer for Auto
 
 ```plaintext
 .
-├── AMPCModel/                # AMPC controller files
 ├── DPCModel/                 # DPC controller files
 ├── HFAMPCModel/              # HFAMPC controller files
 ├── HFRPCModel/               # HFRPC controller files
@@ -63,22 +62,27 @@ To run the project, the following dependencies are required:
 - casadi
 - CUDA
 
-
+---
 
 ## Usage
 
 1. **Generate Dataset**:
    Use `DataSetGeneration/` scripts to generate training and testing data.
+   You can also download the dataset using the following link:  
+[Google Drive Dataset](https://drive.google.com/drive/folders/1M-Q4PIhni7Qef-Y_Tv5yNguGOi1WrRkw?usp=drive_link)
 
-2. **Train Controllers**:
+
+3. **Train Controllers**:
    Run training scripts in the respective model directories (e.g., `RPC_train_GPU.py`).
 
-3. **Run Simulations**:
+4. **Run Simulations**:
    - Single example simulation: `mainNumericalSimulationSingleExample.py`
    - Multiple controller comparison: `mainLaneChangingSixController.py`
 
-4. **Visualize Results**:
+5. **Visualize Results**:
    - Training loss: `Training Loss over Epochs.png`.
+
+---
 
 ## Results
 
@@ -87,6 +91,7 @@ To run the project, the following dependencies are required:
 - **Training Loss**:
   - Visualized in `Training Loss over Epochs.png`.
 
+---
 
 ## Author
 Xianning Li  
